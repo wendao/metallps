@@ -1,0 +1,154 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GTKEDILERQRKIIERAQEIHRRQQEILEELERIIRKPGSSEEAMKRMLKLLEESLRLLKELLELSEESAQLLYEQR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GTEKRLLEEAERAHREQKEIIKKAQELHRRLEEIVRQSGSSEEAKKEAKKILEEIRELSKRSLELLREILYLSQEQKGSLVPR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD13_XAAA"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PTDEVIEVLKELLRIHRENLRVNEEIVEVNERASRVTDREELERLLRRSNELIKRSRELNEESKKLIEKLERLAT",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DNEEIIKEARRVVEEYKKAVDRLEELVRRAENAKHASEKELKDIVREILRISKELNKVSERLIELWERSQERAR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD150"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "TAEELLEVHKKSDRVTKEHLRVSEEILKVVEVLTRGEVSSEVLKRVLRKLEELTDKLRRVTEEQRRVVEKLN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DLEDLLRRLRRLVDEQRRLVEELERVSRRLEKAVRDNEDERELARLSREHSDIQDKHDKLAREILEVLKRLLERTE",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD154"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PEDDVVRIIKEDLESNREVLREQKEIHRILELVTRGEVSEEAIDRVLKRQEDLLKKQKESTDKARKVVEERR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DEVRLITEWLKLSEESTRLLKELVELTRLLRNNVPNVEEILREHERISRELERLSRRLKDLADKLERTRR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD155"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SERELQRELNKIVRRILEIHREVSELHQRAVKLIRENDNSEELEEISRRIEELSKELEKLVREHDEIVKTIE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SEREKLDRNDEELKEINKRVEEIKERSDRITEAIEKNERSEEEIRRLSREQNEALQRLLELHKKLVKLHRELLEDTR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD162"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DSDEHLKKLKTFLENLRRHLDRLDKHIKQLRDILSENPEDERVKDVIDLSERSVRIVKTVIKIFEDSVRKKE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GSDDKELDKLLDTLEKILQTATKIIDDANKLLEKLRRSERKDPKVVETYVELLKRHEKAVKELLEIAKTHAKKVE",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD37_ABXB"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MDEEDHLKKLKTHLEKLERHLKLLEDHAKKLEDILKERPEDSAVKESIDELRRSIELVRESIEIFRQSVEEEE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GDVKELTKILDTLTKILETATKVIKDATKLLEEHRKSDKPDPRLIETHKKLVEEHETLVRQHKELAEEHLKRTR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD37_BBBB"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "TEDEIRESLKWLDEVLQELREIARESNEVLERNRQKSRSDKLREDIERYKKRMEEARKKLDDQLNKYKKRMDENRS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TEEELKESKKFAEDLARSARRALKESKRVLEEISQASRSKKLEEIVRRYKEQVKRWQDEWDERAREYRKRMKENRS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "DHD6"
+    }
+]
